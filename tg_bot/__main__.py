@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello Master! My name is *{}*, I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
+Hello Master! I am your personal Maid, My name is *{}*, I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
 
 
 """
